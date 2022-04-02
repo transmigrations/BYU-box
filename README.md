@@ -14,11 +14,11 @@ BlackBox has been commericially produced by Steve Barbour of the https://upstrea
 ![5](https://user-images.githubusercontent.com/102841515/161368497-69e836a9-1212-40f1-a447-510051f38fb8.png)
 
 
-The panels on the BYU box are designed to be cut on a CNC router, the desgin files for these panels can be sent to a local CNC router cutting shop that can cut the plywood to size. Once you have the required pieces the assembley can be done easily by using a mallet. The only other material you will require to complete the box, is soundproofing/noise absorbing material.
+The panels on the BYU box are designed to be cut on a CNC router, the desgin files for these panels can be sent to a local CNC router cutting shop that can cut the plywood to size. Once you have the required pieces the assembley can be done easily by using a mallet. The other materials you will require to complete the box, are soundproofing/noise absorbing material and filters.
 
 ![3](https://user-images.githubusercontent.com/102841515/161368504-e7cde847-a042-469e-a7b4-ae28f305b7e3.png)
 
-The indepth guide by econoalchemist is really useful in understanding how the box works, the reasons why the box was designed in such a way, along with the material used, so please check the above link to the guide.
+The indepth guide by econoalchemist is really useful in understanding how the box works, the material used and the testing stats (noise and temperature readings), so please check the link above.
 
 
 ![1](https://user-images.githubusercontent.com/102841515/161368508-ec2e987f-c808-4e36-8c78-9b5f134d6643.png)
